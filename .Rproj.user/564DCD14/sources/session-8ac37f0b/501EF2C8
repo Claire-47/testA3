@@ -3,7 +3,7 @@
     "path": "~/Desktop/testA3/example.Rmd",
     "project_path": "example.Rmd",
     "type": "r_markdown",
-    "hash": "3114259567",
+    "hash": "2828263542",
     "contents": "",
     "dirty": false,
     "created": 1684629731403.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,17",
+        "cursorPosition": "4,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684682044,
+    "lastKnownWriteTime": 1684682634,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684682044085,
+    "last_content_update": 1684682634578,
     "read_only": false,
     "read_only_alternatives": []
 }
